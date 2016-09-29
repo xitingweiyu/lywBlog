@@ -19,4 +19,5 @@
 .dtime { background: url("../images/newsbg02.png") no-repeat left center;}
 .viewnum { background: url("../images/newsbg04.png") no-repeat left center;}
 .pingl { background: url("../images/newsbg03.png") no-repeat left center;}
+.clear { clear: both; }
 
